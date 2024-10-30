@@ -1,0 +1,10 @@
+[zoho]
+company_id = 765432109
+client_id = 1000.ZVPXG42TB7S358Z6GLFCD46GO881R3
+client_secret = btr2442nid2jpoejmfit68v5ko1a7puaur412bfzij
+auth_code = 1000.bytga2v1wt1v7e99dv6p75vwpebpg271s21uqnfyjfhcdixjjw73a96f59hjh47qe
+refresh_token = 1000.931obus25em5tsvperr6dqyqd0eplofd21k3kn688oaf5wbno8yf98bkh3h70u3hi
+
+[censor_api]
+endpoint = http://localhost:8000/detect_credentials
+
